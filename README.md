@@ -1,5 +1,4 @@
-import image in header
-![Prenergy](_files/ref_image.png)
+<img src="_files/ref_image.png" width="200" height=200>
 
 # Prenergy: A Chemical Energy Prediction Library
 
