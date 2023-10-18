@@ -1,3 +1,6 @@
+import image in header
+![Prenergy](_files/ref_image.png)
+
 # Prenergy: A Chemical Energy Prediction Library
 
 Prenergy is a Python library designed for chemical energy prediction. Leveraging the power of machine learning and chemoinformatics, Prenergy provides a streamlined interface for feature engineering and predictive analytics for chemical reactions. The library includes modules for data featurization and machine learning models specifically tailored for chemical data.
